@@ -11,3 +11,6 @@
 
 
 [Урок 14](https://alxhawke.github.io/lesson_14/ "Урок 14")
+
+
+[Практика. Часть 2](https://alxhawke.github.io/practic_2/ "Практика. Часть 2")
