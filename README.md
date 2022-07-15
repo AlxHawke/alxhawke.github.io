@@ -10,4 +10,4 @@
 [Практика. Часть 1](https://alxhawke.github.io/practic_1/ "Практика. Часть 1")
 
 
-[Урок 14](https://alxhawke.github.io/lesson_1/ "Урок 14")
+[Урок 14](https://alxhawke.github.io/lesson_14/ "Урок 14")
