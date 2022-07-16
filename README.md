@@ -17,3 +17,6 @@
 
 
 [Урок 15](https://alxhawke.github.io/lesson_15/ "Урок 15")
+
+
+[Практика. Часть 3](https://alxhawke.github.io/practic_3/ "Практика. Часть 3")
