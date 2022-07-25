@@ -20,3 +20,6 @@
 
 
 [Практика. Часть 3](https://alxhawke.github.io/practic_3/ "Практика. Часть 3")
+
+
+[Урок 16](https://alxhawke.github.io/lesson_16/ "Урок 16")
