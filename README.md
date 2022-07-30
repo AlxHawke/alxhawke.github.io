@@ -23,3 +23,6 @@
 
 
 [Урок 16](https://alxhawke.github.io/lesson_16/ "Урок 16")
+
+
+[Практика. Часть 4](https://alxhawke.github.io/practic_4/ "Практика. Часть 4")
