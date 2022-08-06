@@ -35,4 +35,5 @@
 
 
 [Урок 18, Задание 1](https://alxhawke.github.io/lesson_18_1/ "Урок 18.1")
-[Урок 18, Задание 1](https://alxhawke.github.io/lesson_18_2/ "Урок 18.2")
+
+[Урок 18, Задание 2](https://alxhawke.github.io/lesson_18_2/ "Урок 18.2")
