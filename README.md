@@ -38,3 +38,6 @@
 
 
 [Урок 18, Задание 2](https://alxhawke.github.io/lesson_18_2/ "Урок 18.2")
+
+
+[Практика. Часть 6](https://alxhawke.github.io/practic_6/ "Практика. Часть 6")
