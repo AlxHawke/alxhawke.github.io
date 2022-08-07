@@ -41,3 +41,6 @@
 
 
 [Практика. Часть 6](https://alxhawke.github.io/practic_6/ "Практика. Часть 6")
+
+
+[Урок 19](https://alxhawke.github.io/lesson_19/ "Урок 19")
