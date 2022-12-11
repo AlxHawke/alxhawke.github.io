@@ -44,3 +44,6 @@
 
 
 [Урок 19](https://alxhawke.github.io/lesson_19/ "Урок 19")
+
+
+[Практика. Часть 7](https://alxhawke.github.io/practic_7/ "Практика. Часть 7")
