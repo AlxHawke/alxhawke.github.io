@@ -50,3 +50,6 @@
 
 
 [Урок 20](https://alxhawke.github.io/lesson_20/ "Урок 20")
+
+
+[Практика. Часть 8](https://alxhawke.github.io/practic_8/ "Практика. Часть 8")
