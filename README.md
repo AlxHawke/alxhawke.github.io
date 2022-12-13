@@ -53,3 +53,6 @@
 
 
 [Практика. Часть 8](https://alxhawke.github.io/practic_8/ "Практика. Часть 8")
+
+
+[Урок 21](https://alxhawke.github.io/lesson_21/ "Урок 21")
