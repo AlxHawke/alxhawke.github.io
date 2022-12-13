@@ -59,3 +59,6 @@
 
 
 [Практика. Часть 9](https://alxhawke.github.io/practic_9/ "Практика. Часть 9")
+
+
+[Урок 22](https://alxhawke.github.io/lesson_22/ "Урок 22")
