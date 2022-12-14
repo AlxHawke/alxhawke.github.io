@@ -62,3 +62,6 @@
 
 
 [Урок 22](https://alxhawke.github.io/lesson_22/ "Урок 22")
+
+
+[Практика. Часть 10](https://alxhawke.github.io/practic_10/ "Практика. Часть 10")
